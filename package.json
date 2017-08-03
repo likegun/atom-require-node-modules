@@ -1,7 +1,7 @@
 {
   "name": "atom-require-node-modules",
   "main": "./lib/require",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "require node package quickily",
   "keywords": [],
   "activationCommands": {
