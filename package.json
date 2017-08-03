@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "require:toggle"
   },
-  "repository": "https://github.com/atom/atom-require-node-modules",
+  "repository": "https://github.com/likegun/atom-require-node-modules",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
