@@ -1,5 +1,5 @@
 {
-  "name": "require-node-modules",
+  "name": "atom-require-node-modules",
   "main": "./lib/require",
   "version": "1.0.0",
   "description": "require node package quickily",
@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "require:toggle"
   },
-  "repository": "https://github.com/atom/require",
+  "repository": "https://github.com/atom/atom-require-node-modules",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
