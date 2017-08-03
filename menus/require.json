@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle require",
+        "command": "require:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "require",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "require:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
