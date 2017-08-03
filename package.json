@@ -1,8 +1,8 @@
 {
-  "name": "require",
+  "name": "require-node-modules",
   "main": "./lib/require",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "1.0.0",
+  "description": "require node package quickily",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "require:toggle"
